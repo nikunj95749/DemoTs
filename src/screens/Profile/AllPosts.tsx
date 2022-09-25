@@ -12,7 +12,7 @@ export function AllPosts() {
       const res = await getAllPostListData();
       setPostList(res?.data?.data);
     } catch (error) {
-      console.log('[UserDetail] setUserPostListData error: ', error);
+      console.log('[AllPosts] setUserPostListData error: ', error);
     }
   };
 
