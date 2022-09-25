@@ -1,2 +1,2 @@
 export { Home } from '@/screens/Home/Home';
-export { Profile } from '@/screens/Profile/Profile';
+export { AllPosts } from '@/screens/Profile/AllPosts';

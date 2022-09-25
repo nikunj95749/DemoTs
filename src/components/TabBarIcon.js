@@ -6,7 +6,7 @@ import { NAVIGATION } from '@/constants';
 
 const tabIcon = {
   [NAVIGATION.homeNav]: cinemaIcon,
-  [NAVIGATION.profile]: settingsIcon,
+  [NAVIGATION.AllPosts]: settingsIcon,
 };
 
 export function TabBarIcon({ color, routeName }) {

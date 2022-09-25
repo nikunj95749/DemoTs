@@ -53,7 +53,7 @@ function BottomTabNavigator({ navigation }) {
         component={HomeNavigator}
         options={{ headerShown: false }}
       />
-      <Tab.Screen name={NAVIGATION.profile} component={ProfileNavigator} />
+      <Tab.Screen name={NAVIGATION.AllPosts} component={ProfileNavigator} />
     </Tab.Navigator>
   );
 }

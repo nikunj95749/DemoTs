@@ -2,7 +2,7 @@ export const NAVIGATION = {
   home: 'Home',
   homeNav: 'HomeNav',
   login: 'Login',
-  profile: 'Profile',
+  AllPosts: 'AllPosts',
   UserDetail:'UserDetail',
   bottomTabNavigator:'BottomTabNavigator'
 };
